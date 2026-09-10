@@ -1,41 +1,70 @@
-# Hi, I'm Apoorva Makena 👋
+# Apoorva Makena
 
-Software Engineer with experience building backend services, scalable APIs, data-driven applications, and AI-enabled automation workflows. I enjoy building practical AI tools that combine software engineering, document processing, retrieval, and user-focused product design.
+**Applied AI Engineer | M.S. Information Science | Trustworthy AI, Information Retrieval and Multimodal Systems**
 
-## 🔹 Featured Project
+I am an Applied AI Engineer with an M.S. in Information Science and a background in Electronics and Communication Engineering. My work spans applied AI systems, information retrieval, data engineering, backend development, and evaluation of AI-enabled workflows.
 
-### Agent ARCA — Multimodal GenAI Research & Learning Assistant
+My interests include **trustworthy AI, multimodal systems, information retrieval, reliable information integration, and AI evaluation**, with growing application interests in **Earth observation, satellite imagery, and GeoAI**.
 
-Agent ARCA is an AI-powered research assistant that turns files, links, videos, images, and web sources into trusted summaries, study guides, decision briefs, reports, and presentation decks.
+## Research and Technical Interests
 
-**Tech Stack:** Python, Streamlit, Gemini API, Tavily Search, PyMuPDF, python-docx, python-pptx, ReportLab, gTTS
+- Trustworthy and reliable AI
+- Multimodal learning and information integration
+- Information retrieval and source-grounded AI
+- Explainability, provenance, robustness, and evaluation
+- Data quality and reliable decision support
+- Spatial and temporal reasoning
+- Earth observation, satellite imagery, and GeoAI
 
-**Highlights:**
-- Built a multimodal GenAI assistant that processes PDFs, DOCX, PPTX, images, URLs, YouTube transcripts, and web search results.
-- Designed modular Python pipelines for document parsing, web retrieval, source ranking, prompt orchestration, LLM generation, dashboard metrics, and export generation.
-- Implemented source reliability scoring, evidence maps, citation-style source markers, follow-up Q&A, quizzes, flashcards, visual snapshots, and answer-level audio playback.
-- Added production-style UX with unified uploads, quick-start actions, Fast/Deep research modes, cached retrieval, and Word/PDF/PowerPoint exports.
+## Featured Project
 
-🔗 **Repository:** https://github.com/apoorvam-10/agent-arca-ai
+### Agent ARCA — Automated Research Concierge Agent
 
-## 🛠️ Skills
+Agent ARCA is a source-grounded research system designed to collect information from multiple sources and transform it into structured research briefs.
 
-**Languages:** Python, Java, JavaScript, SQL, C++  
-**Backend & APIs:** REST APIs, FastAPI, API Design, Microservices, Distributed Systems Concepts  
-**Databases:** PostgreSQL, SQL Query Optimization, Data Modeling  
-**AI & Automation:** LLM Workflows, Prompt Engineering, AI Agents, Document Processing, Research Automation  
-**Cloud & DevOps:** Docker, Kubernetes, CI/CD, Linux, Git  
-**Quality:** Unit Testing, Functional Testing, Debugging, Logging, Monitoring, Metrics
+**Core capabilities:**
+- Multi-source information retrieval and synthesis
+- Web, PDF, and document processing
+- Source grounding and evidence organization
+- AI workflow orchestration
+- Structured brief generation
+- Session and workflow state handling
+- Evaluation using readability, coverage, and confidence signals
 
-## 📌 Current Focus
+The project explores how AI systems can support more structured, traceable, and reliable research workflows across heterogeneous information sources.
 
-- Building practical GenAI applications
-- Improving AI product UX
-- Learning production AI architecture with FastAPI, Next.js, and cloud deployment
-- Applying to Software Engineering and AI Builder roles
+**Repository:** [agent-arca-ai](https://github.com/apoorvam-10/agent-arca-ai)
 
-## 📫 Contact
+## Academic Projects
 
-- GitHub: https://github.com/apoorvam-10
-- LinkedIn: Add your LinkedIn URL here
-- Email: Add your email if you want it public
+### Monitoring Daily Activities for Health: A Study on Obesity and Physical Activity
+
+Graduate data project using a CDC dataset to work across the data lifecycle, including data cleaning, cloud-based processing, querying, analysis, and visualization.
+
+**Tools:** Google Cloud Platform, BigQuery, Hive, Spark, OpenRefine, Tableau
+
+### Methane Emission Around the World
+
+Graduate data visualization project focused on analyzing methane-emission patterns across countries, regions, emission sources, and time periods.
+
+**Tools:** Tableau, Exploratory Data Analysis, Data Visualization
+
+### Borrow Select Subtractor for Low Power and Area Efficiency
+
+Undergraduate engineering project focused on designing and evaluating area- and delay-efficient digital subtraction architectures.
+
+**Tools:** Verilog, Digital Logic, VLSI Design
+
+## Technical Background
+
+**Languages:** Python, Java, C++, JavaScript, TypeScript, SQL
+
+**AI and ML:** LLM workflows, RAG concepts, prompt engineering, AI evaluation, scikit-learn, TensorFlow
+
+**Backend and APIs:** FastAPI, Flask, Django, Spring Boot, REST APIs
+
+**Data:** PostgreSQL, MySQL, MongoDB, BigQuery, Hive, Spark
+
+**Cloud and DevOps:** AWS, GCP, Docker, Kubernetes, GitHub Actions
+
+**Frontend:** React, Angular
