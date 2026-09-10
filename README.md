@@ -1,4 +1,4 @@
-# Apoorva Makena
+# Lakshmi Apoorva Makena
 
 **Applied AI Engineer | M.S. Information Science | Trustworthy AI, Information Retrieval and Multimodal Systems**
 
